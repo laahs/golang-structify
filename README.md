@@ -1,2 +1,2 @@
 # golang-structify
-package for structure manipulation
+package for GOLANG struct manipulation
